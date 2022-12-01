@@ -12,8 +12,9 @@ a.navbar-brand {
 }
 
 /* Provide sufficient contrast against white background */
-a {
-  color: #0366d6;
+h2 {
+    text-align: center;
+    color: white;
 }
 
 .btn-primary {
